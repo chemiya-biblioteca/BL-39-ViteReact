@@ -1,0 +1,9 @@
+npm create vite
+seleccionar react, javascript
+cd proyecto
+npm i 
+npm run dev
+archivos en jsx
+
+npm run build
+npm run preview
